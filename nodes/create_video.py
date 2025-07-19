@@ -8,7 +8,7 @@ from moviepy.config import change_settings
 change_settings({"IMAGEMAGICK_BINARY": "C:\\Program Files\\ImageMagick-7.1.2-Q16-HDRI\\magick.exe"})
 # Set your API key
 
-client = ElevenLabs(api_key="sk_25ab42be4a8c2befcd337391ae89128172c578202f05aca8")
+client = ElevenLabs(api_key="your-elevenlabs-api-key-here")  # Replace with your actual ElevenLabs API key
 
 def create_video_with_elevenlabs(state: NewsState):
     unique_id = uuid.uuid4().hex[:8]
