@@ -1,0 +1,24 @@
+# Core AI/ML and Orchestration
+langgraph
+langchain
+langchain-core
+langchain-openai
+pydantic
+
+# Web UI
+streamlit
+
+# External APIs
+elevenlabs
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+
+# Web Scraping & Data Handling
+requests
+beautifulsoup4
+
+# Video & Audio Processing
+moviepy
+
+# Note: sqlite3 is part of the standard Python library and does not need to be listed.
