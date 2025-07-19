@@ -50,7 +50,7 @@ Follow these steps to get the project running on your local machine.
 
 ```bash
 git clone https://github.com/sadiakhalil125/Auto-News-Cast-Agent.git
-cd your-repo-name
+cd Auto-News-Cast-Agent
 ```
 
 ### 3. Install Dependencies
