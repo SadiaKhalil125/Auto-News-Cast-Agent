@@ -5,6 +5,10 @@
 An end-to-end, AI-driven News-to-Video pipeline orchestrated with **LangGraph**. This agent scrapes news headlines, generates AI-powered video scripts, and builds video content with voiceovers, all controlled via a **Streamlit** user interface.
 
 The project's key feature is its robust, stateful **human-in-the-loop approval gate**, which pauses the workflow for human validation before final content creation and upload to YouTube.
+
+**Demo**
+https://drive.google.com/file/d/1xsmI3r55iJK6rp7GCUi-kgcYySW_5LGy/view?usp=sharing&usp=embed_facebook
+
 <img width="1366" height="768" alt="Screenshot (1176)" src="https://github.com/user-attachments/assets/776d05a1-d23c-42f9-a221-2c71f0fa6bd2" />
 
 
